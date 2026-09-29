@@ -1,0 +1,4086 @@
+{
+  "generated": "2026-09-29",
+  "source": "https://launchgrill.com/directories",
+  "license": "CC-BY-4.0",
+  "directories": [
+    {
+      "id": "10015",
+      "name": "10015 Tools",
+      "home": "https://10015.io/",
+      "submit": "https://10015.io/product-finder/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $9.99, $2.99/mo.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "600",
+      "name": "600.tools",
+      "home": "https://600.tools/",
+      "submit": "https://600.tools/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "addaidirectory",
+      "name": "Add AI Directory",
+      "home": "https://addaidirectory.com/",
+      "submit": "https://www.addaidirectory.com/submit-ai-agent",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "agenthunter",
+      "name": "AgentHunter",
+      "home": "https://agenthunter.io/",
+      "submit": "https://www.agenthunter.io/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aiagentsdirectory",
+      "name": "AI Agents Directory",
+      "home": "https://aiagentsdirectory.com/",
+      "submit": "https://aiagentsdirectory.com/submit-agent",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aiagentslist",
+      "name": "AI Agents List",
+      "home": "https://aiagentslist.com/",
+      "submit": "https://aiagentslist.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $29, $49.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aiagentslive",
+      "name": "AI Agents Live",
+      "home": "https://aiagentslive.com/",
+      "submit": "https://aiagentslive.com/agents/submit/1",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aidirectory",
+      "name": "AI Directory",
+      "home": "https://aidirectory.org/",
+      "submit": "https://www.aidirectory.org/user-submit/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aiparabellum",
+      "name": "AI Parabellum",
+      "home": "https://aiparabellum.com/",
+      "submit": "https://aiparabellum.com/submit-your-ai-tool/",
+      "free": "Free path mentioned; prices also shown on the submit page: $110, $99.00, $39, $60.00, $199.00, $89, $110.00, $20.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolsdirectory",
+      "name": "AI Tools Directory",
+      "home": "https://aitoolsdirectory.com/",
+      "submit": "https://aitoolsdirectory.com/submit-tool",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolshunt",
+      "name": "AI Tools Hunt",
+      "home": "https://aitoolshunt.com/",
+      "submit": "https://aitoolshunt.com/submit-ai-tool/",
+      "free": "Free path mentioned; prices also shown on the submit page: $15, $0.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolslist-io",
+      "name": "AI Tools List",
+      "home": "https://aitoolslist.io/",
+      "submit": "https://aitoolslist.io/submit-ai-tool/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolsmagazine",
+      "name": "AI Tools Magazine",
+      "home": "https://aitoolsmagazine.com/",
+      "submit": "https://aitoolsmagazine.com/account/login/?redirect=https%3A%2F%2Faitoolsmagazine.com%2Fsubmit-listing%2F",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolsmarketer",
+      "name": "AI Tools Marketer",
+      "home": "https://aitoolsmarketer.com/",
+      "submit": "https://aitoolsmarketer.com/submit/",
+      "free": "Free path mentioned; prices also shown on the submit page: $75, $145.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolspin",
+      "name": "AI Tools Pin",
+      "home": "https://aitoolspin.com/",
+      "submit": "https://aitoolspin.com/submit-tool.html",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoolzdir",
+      "name": "AI Toolz Dir",
+      "home": "https://aitoolzdir.com/",
+      "submit": "https://www.aitoolzdir.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $25, $0.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitoptools",
+      "name": "AI Top Tools",
+      "home": "https://aitoptools.com/",
+      "submit": "https://aitoptools.com/claim-your-tool/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "ainave",
+      "name": "ainave",
+      "home": "https://ainave.com/",
+      "submit": "https://ainave.com/submit/products",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aisupersmart",
+      "name": "AISuperSmart",
+      "home": "https://aisupersmart.com/",
+      "submit": "https://www.aisupersmart.com/submit-tool/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitools-inc",
+      "name": "AiTools",
+      "home": "https://aitools.inc/",
+      "submit": "https://aitools.inc/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0/mo, $129.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aitop10",
+      "name": "AITop10.tools",
+      "home": "https://aitop10.tools/",
+      "submit": "https://aitop10.tools/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $6.9.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "aiwith",
+      "name": "aiwith.me",
+      "home": "https://aiwith.me/",
+      "submit": "https://aiwith.me/submit/",
+      "free": "Free path mentioned; prices also shown on the submit page: $19.9, $26.9, $29.9/mo, $39.9.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "alltopstartups",
+      "name": "All Top Startups",
+      "home": "https://alltopstartups.com/",
+      "submit": "https://alltopstartups.com/submit-startup/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "alphadigits",
+      "name": "Alpha Digits",
+      "home": "https://alphadigits.com/",
+      "submit": "https://alphadigits.com/submit-app-for-review/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "altern",
+      "name": "Altern",
+      "home": "https://altern.ai/",
+      "submit": "https://altern.ai/tasks/submit-your-ai-tools-around-the-web-to-get-discovered",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "alternative",
+      "name": "Alternative.me",
+      "home": "https://alternative.me/",
+      "submit": "https://alternative.me/how-to/submit-software/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "alternativeto",
+      "name": "AlternativeTo",
+      "home": "https://alternativeto.net/",
+      "submit": "https://alternativeto.net/manage-item/",
+      "free": "Free. Listed as an alternative to an existing product.",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "months (reported); a $5 fast lane exists",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free, but you need an account with a verified email, and the form sits in the user menu. The normal queue can take months; a $5 priority review is offered. Tracking tags are not allowed on the website link.",
+      "page": "https://launchgrill.com/directories/alternativeto"
+    },
+    {
+      "id": "androidappsreview",
+      "name": "Android Apps Review",
+      "home": "https://androidappsreview.com/",
+      "submit": "https://androidappsreview.com/submit-your-android-app/",
+      "free": "Free path mentioned; prices also shown on the submit page: $59, $89, $79, $139, $249, $199, $198, $399.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "anyfp",
+      "name": "ANYFP",
+      "home": "https://anyfp.com/",
+      "submit": "https://anyfp.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appslisto",
+      "name": "App Listo",
+      "home": "https://appslisto.com/",
+      "submit": "https://appslisto.com/submit-your-app/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appcritica",
+      "name": "AppCritica",
+      "home": "https://appcritica.com/",
+      "submit": "https://www.appcritica.com/get-listed/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appiod",
+      "name": "Appoid",
+      "home": "https://appiod.com/",
+      "submit": "https://appiod.com/submit-app-for-review/",
+      "free": "Free path mentioned; prices also shown on the submit page: $249..",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "apps400",
+      "name": "Apps 400",
+      "home": "https://apps400.com/",
+      "submit": "https://apps400.com/submit-your-application-for-review",
+      "free": "Free path mentioned; prices also shown on the submit page: $49., $349..",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appsmamma",
+      "name": "Apps Mamma",
+      "home": "https://appsmamma.com/",
+      "submit": "https://appsmamma.com/submit-your-app/",
+      "free": "Free path mentioned; prices also shown on the submit page: $249..",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appsmirror",
+      "name": "Apps Mirror",
+      "home": "https://appsmirror.com/",
+      "submit": "https://appsmirror.com/submit-your-app-for-review",
+      "free": "Free path mentioned; prices also shown on the submit page: $249,.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appsthunder",
+      "name": "Apps Thunder",
+      "home": "https://appsthunder.com/",
+      "submit": "https://appsthunder.com/submit-your-app/",
+      "free": "Free path mentioned; prices also shown on the submit page: $249..",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "appysmarts",
+      "name": "Appy Smarts",
+      "home": "https://appysmarts.com/",
+      "submit": "https://www.appysmarts.com/suggest.php",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "auraplusplus",
+      "name": "Aura++",
+      "home": "https://auraplusplus.com/",
+      "submit": "https://auraplusplus.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "awesome",
+      "name": "Awesome Tools",
+      "home": "https://awesome.tools/",
+      "submit": "https://awesome.tools/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "bai",
+      "name": "BAI.tools",
+      "home": "https://bai.tools/",
+      "submit": "https://bai.tools/submit-ai-tools",
+      "free": "Free path mentioned; prices also shown on the submit page: $29.9, $19.9.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "beingguru",
+      "name": "Being Guru",
+      "home": "https://beingguru.com/",
+      "submit": "https://beingguru.com/submit-startup/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "betalist",
+      "name": "BetaList",
+      "home": "https://www.betalist.com/",
+      "submit": "https://betalist.com/submit",
+      "free": "No free route as of 2026-09-26: after the form, only Lite $39, Standard $99, Premium $299 — each with a dofollow link.",
+      "link": "paid-only",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "No free route any more: after the form, the choices are $39, $99 and $299, each with a dofollow link. BetaList drafts the listing itself from your homepage.",
+      "page": "https://launchgrill.com/directories/betalist"
+    },
+    {
+      "id": "beyondaitools",
+      "name": "Beyond AI Tools",
+      "home": "https://beyondaitools.com/",
+      "submit": "https://www.beyondaitools.com/product/submit",
+      "free": "Only prices seen on the submit page ($9.9, $29.9) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "bufferapps",
+      "name": "BufferApps",
+      "home": "https://bufferapps.com/",
+      "submit": "https://bufferapps.com/submit-product",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "buildlist",
+      "name": "Buildlist",
+      "home": "https://buildlist.io/",
+      "submit": "https://buildlist.io/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "buildvoyage",
+      "name": "BuildVoyage",
+      "home": "https://buildvoyage.com/",
+      "submit": "https://buildvoyage.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "business-software",
+      "name": "Business Software",
+      "home": "https://business-software.com/",
+      "submit": "https://www.business-software.com/add-your-product/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "cipinet",
+      "name": "Cipinet",
+      "home": "https://cipinet.com/",
+      "submit": "https://www.cipinet.com/submit.php",
+      "free": "Free path mentioned; prices also shown on the submit page: $135/year, $85.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "confettisaas",
+      "name": "ConfettiSaaS",
+      "home": "https://confettisaas.com/",
+      "submit": "https://confettisaas.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "cybersectools",
+      "name": "CyberSec Tools",
+      "home": "https://cybersectools.com/",
+      "submit": "https://cybersectools.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $28.00, $22.75, $17.50, $6.00, $12.25, $33.00, $599/mo, $6.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "dailypings",
+      "name": "Daily Pings",
+      "home": "https://dailypings.com/",
+      "submit": "https://dailypings.com/sign-in?callbackURL=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "deeplaunch",
+      "name": "Deeplaunch.io",
+      "home": "https://deeplaunch.io/",
+      "submit": "https://deeplaunch.io/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "devpages",
+      "name": "Dev Pages",
+      "home": "https://devpages.io/",
+      "submit": "https://devpages.io/submit-a-tool",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "devtools",
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "direct2app",
+      "name": "Direct2App",
+      "home": "https://direct2app.com/",
+      "submit": "https://www.direct2app.com/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "dirs-cc",
+      "name": "Dirs.cc",
+      "home": "https://dirs.cc/",
+      "submit": "https://dirs.cc/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "dododirectory",
+      "name": "DodoDirectory",
+      "home": "https://dododirectory.com/",
+      "submit": "https://dododirectory.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $9.99, $49.99, $299.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "dofollow",
+      "name": "Dofollow.Tools",
+      "home": "https://dofollow.tools/",
+      "submit": "https://dofollow.tools/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "easywithai",
+      "name": "Easy With AI",
+      "home": "https://easywithai.com/",
+      "submit": "https://easywithai.com/submit-tool/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "ebool",
+      "name": "EBool",
+      "home": "https://ebool.com/",
+      "submit": "https://www.ebool.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $\\n47, $\\n117, $\\n197, $47, $117, $197.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "eliteai",
+      "name": "EliteAI Tools",
+      "home": "https://eliteai.tools/",
+      "submit": "https://eliteai.tools/tool/submit-new-tool?tab=launch",
+      "free": "Only prices seen on the submit page ($10, $19, $49) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "emojilaunch",
+      "name": "Emoji Launch",
+      "home": "https://emojilaunch.com/",
+      "submit": "https://emojilaunch.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "euroalternative",
+      "name": "EuroAlternative",
+      "home": "https://euroalternative.co/",
+      "submit": "https://euroalternative.eu/auth/login?next=/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "fastlaunch",
+      "name": "FastLaunch",
+      "home": "https://fastlaunch.io/",
+      "submit": "https://fastlaunch.io/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "fazier",
+      "name": "Fazier",
+      "home": "https://fazier.com/",
+      "submit": "https://fazier.com/submit",
+      "free": "Free only with a link back to Fazier on your homepage or footer; reviewed and listed within 30 days. Lite $29 (was $39) needs no badge; Premium $49; Super $99.",
+      "link": "paid-only",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": true,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "Free only if your homepage or footer links back to Fazier, then listed within 30 days. $29 lists you without the link back.",
+      "page": "https://launchgrill.com/directories/fazier"
+    },
+    {
+      "id": "featuredtool",
+      "name": "FeaturedTool",
+      "home": "https://featuredtool.com/",
+      "submit": "https://featuredtool.com/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "fellowmakers",
+      "name": "FellowMakers",
+      "home": "https://fellowmakers.app/",
+      "submit": "https://fellowmakers.app/join",
+      "free": "Free. A founder card with the project and one link, read by a person before it appears. The link is nofollow.",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "a few days (cards are taken in batches)",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "listing read",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "financesonline",
+      "name": "FinancesOnline",
+      "home": "https://financesonline.com/",
+      "submit": "https://financesonline.com/add-product/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "findmyaitool",
+      "name": "Find My AI Tool",
+      "home": "https://findmyaitool.com/",
+      "submit": "https://findmyaitool.com/submit-tool",
+      "free": "Only prices seen on the submit page ($99.99, $79.99, $9.99, $149.99, $199.99, $999.99, $499.99) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "findseotools",
+      "name": "Find SEO Tools",
+      "home": "https://findseotools.com/",
+      "submit": "https://findseotools.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "findly",
+      "name": "findly.tools",
+      "home": "https://findly.tools/",
+      "submit": "https://findly.tools/sign-in?from=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "findyoursaas",
+      "name": "FindYourSaaS",
+      "home": "https://findyoursaas.com/",
+      "submit": "https://findyoursaas.com/tool/launch-nest-ln",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "firsto",
+      "name": "Firsto",
+      "home": "https://firsto.co/",
+      "submit": "https://firsto.co/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "fivetaco",
+      "name": "FiveTaco",
+      "home": "https://fivetaco.com/",
+      "submit": "https://fivetaco.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "foundr",
+      "name": "Foundr",
+      "home": "https://foundr.ai/",
+      "submit": "https://foundr.ai/auth/login?next=/submit&_rsc=ry-B8umWgNEV4JR9",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "foundrlist",
+      "name": "FoundrList",
+      "home": "https://foundrlist.com/",
+      "submit": "https://www.foundrlist.com/login?returnUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "fridayhunt",
+      "name": "FridayHunt",
+      "home": "https://fridayhunt.com/",
+      "submit": "https://fridayhunt.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "futuretools",
+      "name": "Future Tools",
+      "home": "https://futuretools.io/",
+      "submit": "https://futuretools.io/submit-a-tool",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "howbrandsarebuilt",
+      "name": "How Brands Are Built",
+      "home": "https://howbrandsarebuilt.com/",
+      "submit": "https://howbrandsarebuilt.com/submit/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "hunt0",
+      "name": "HUNT0",
+      "home": "https://hunt0.com/",
+      "submit": "https://hunt0.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $16.90, $29.90.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "huntscreens",
+      "name": "HuntScreens.com",
+      "home": "https://huntscreens.com/",
+      "submit": "https://huntscreens.com/submit",
+      "free": "Only prices seen on the submit page ($0, $10.00, $79.00, $29.00, $99.00, $118.00, $19.00, $159.00) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "huzzler",
+      "name": "Huzzler",
+      "home": "https://huzzler.so/",
+      "submit": "https://huzzler.so/submit-product",
+      "free": "Free only with their badge on your site, after a ~72-day queue, and the free product page is not indexed by Google. Launch Boost $39: no badge, indexed, live at once.",
+      "link": "nofollow",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": true,
+      "queue": "~72 days free; immediate at $39",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "The free listing needs a Huzzler badge on your site, waits in a queue of about 72 days, and its page is not indexed by Google. $39 removes all three conditions.",
+      "page": "https://launchgrill.com/directories/huzzler"
+    },
+    {
+      "id": "indie-deals",
+      "name": "Indie Deals",
+      "home": "https://indie.deals/",
+      "submit": "https://indie.deals/auth/login?callbackUrl=%2Fsubmit",
+      "free": "Only prices seen on the submit page ($37) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "indiehustles",
+      "name": "Indie Hustles",
+      "home": "https://indiehustles.com/",
+      "submit": "https://indiehustles.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $9, $0.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "indiehub",
+      "name": "IndieHub",
+      "home": "https://indiehub.best/",
+      "submit": "https://indiehub.best/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "insidr",
+      "name": "Insidr AI Directory",
+      "home": "https://insidr.ai/",
+      "submit": "https://www.insidr.ai/submit-tools/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "joinly",
+      "name": "Joinly",
+      "home": "https://joinly.xyz/",
+      "submit": "https://joinly.xyz/submit-startup",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "land-book",
+      "name": "Land Book",
+      "home": "https://land-book.com/",
+      "submit": "https://land-book.com/submit-template",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "landingfolio",
+      "name": "Landing Folio",
+      "home": "https://landingfolio.com/",
+      "submit": "https://www.landingfolio.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $1.99, $59.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "getlatka",
+      "name": "Latka",
+      "home": "https://getlatka.com/",
+      "submit": "https://getlatka.com/add",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tools-launchllama",
+      "name": "Launch Llama Tools",
+      "home": "https://tools.launchllama.co/",
+      "submit": "https://tools.launchllama.co/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "launchvault",
+      "name": "Launch Vault",
+      "home": "https://launchvault.dev/",
+      "submit": "https://www.launchvault.dev/sign-in?redirect=/projects/submit",
+      "free": "Free launch only with a verified dofollow link to LaunchVault from your site. Premium $9.99 (struck from $19.99): guaranteed DR 46 dofollow, skip the queue.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": true,
+      "queue": "unknown",
+      "fit": [
+        "devtools",
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "The free launch requires a dofollow link to Launch Vault from your site. Premium costs $9.99 and skips the queue. Launches go out at 08:00 UTC daily.",
+      "page": "https://launchgrill.com/directories/launchvault"
+    },
+    {
+      "id": "launchigniter",
+      "name": "LaunchIgniter",
+      "home": "https://launchigniter.com/",
+      "submit": "https://launchigniter.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "launchingnext",
+      "name": "Launching Next",
+      "home": "https://www.launchingnext.com/",
+      "submit": "https://www.launchingnext.com/submit/",
+      "free": "Free. Reviewed daily, published when accepted; 1-business-day review costs $99.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free, no account, one page with a simple human check. Reviewed daily, and you get an email if it is published. A $99 one-day review is offered after you submit.",
+      "page": "https://launchgrill.com/directories/launchingnext"
+    },
+    {
+      "id": "launchpanda",
+      "name": "LaunchPanda",
+      "home": "https://www.launchpanda.dev/",
+      "submit": "https://www.launchpanda.dev/",
+      "free": "Listed free only if their badge is on your site (it activates a dofollow link); otherwise a badgeless launch is $19, or $39 with their Pro Max.",
+      "link": "dofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": true,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free only with their badge on your homepage, confirmed by an automatic check; otherwise $19. It also keeps a checklist of about 333 directories for your product.",
+      "page": "https://launchgrill.com/directories/launchpanda"
+    },
+    {
+      "id": "launchy",
+      "name": "Launchy.tools",
+      "home": "https://launchy.tools/",
+      "submit": "https://launchy.tools/sign-in?callbackURL=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "letterlist",
+      "name": "Letter List",
+      "home": "https://letterlist.com/",
+      "submit": "https://letterlist.com/submit/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "libhunt",
+      "name": "LibHunt",
+      "home": "https://libhunt.com/",
+      "submit": "https://www.libhunt.com/repo/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "linezine",
+      "name": "LineZine",
+      "home": "https://linezine.com/",
+      "submit": "https://linezine.com/list-your-tool",
+      "free": "Free path mentioned; prices also shown on the submit page: $5., $5, $29, $129, $129/yr, $399, $49.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "listyourtool",
+      "name": "ListYourTool",
+      "home": "https://listyourtool.com/",
+      "submit": "https://www.listyourtool.com/submit-tool",
+      "free": "Free path mentioned; prices also shown on the submit page: $4.99/mo, $10/mo.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "llmrelevance",
+      "name": "LLM Relevance",
+      "home": "https://llmrelevance.com/",
+      "submit": "https://www.llmrelevance.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "madewithlovable",
+      "name": "Made with Lovable",
+      "home": "https://madewithlovable.com/",
+      "submit": "https://madewithlovable.com/submit-project",
+      "free": "Free path mentioned; prices also shown on the submit page: $9.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "madewithbolt",
+      "name": "madewithbolt",
+      "home": "https://madewithbolt.com/",
+      "submit": "https://madewithbolt.com/submit-project",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "magicbox",
+      "name": "magicbox.tools",
+      "home": "https://magicbox.tools/",
+      "submit": "https://magicbox.tools/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "marketingdb-live",
+      "name": "MarketingDB",
+      "home": "https://marketingdb.live/",
+      "submit": "https://marketingdb.live/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $9/mo.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "microsaasexamples",
+      "name": "Micro SaaS Examples",
+      "home": "https://microsaasexamples.com/",
+      "submit": "https://www.microsaasexamples.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "microlaunch",
+      "name": "Microlaunch",
+      "home": "https://microlaunch.net/",
+      "submit": "https://microlaunch.net/submit",
+      "free": "Unverified. The submit page now leads with a $39 Pro Launch; a free queue may still exist.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-20",
+      "checkedBy": "submit page read",
+      "note": "The submit page leads with a $39 Pro Launch; no free route was visible when we checked.",
+      "page": "https://launchgrill.com/directories/microlaunch"
+    },
+    {
+      "id": "mostpopularaitools",
+      "name": "Most Popular AI Tools",
+      "home": "https://mostpopularaitools.com/",
+      "submit": "https://mostpopularaitools.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $10, $39.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "navfolders",
+      "name": "NavFolders",
+      "home": "https://navfolders.com/",
+      "submit": "https://navfolders.com/auth/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "navs",
+      "name": "Navs Site",
+      "home": "https://navs.site/",
+      "submit": "https://navs.site/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "navtools",
+      "name": "NavTools AI",
+      "home": "https://navtools.ai/",
+      "submit": "https://navtools.ai/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $29.9, $149.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "neeed",
+      "name": "neeed.directory",
+      "home": "https://neeed.directory/",
+      "submit": "https://neeed.directory/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $19.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "newaiforyou",
+      "name": "NewAIForYou",
+      "home": "https://newaiforyou.com/",
+      "submit": "https://newaiforyou.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "nextbigproduct",
+      "name": "Next Big Product",
+      "home": "https://nextbigproduct.com/",
+      "submit": "https://nextbigproduct.com/list-fast",
+      "free": "Free: no badge, pick any open launch date (5 launches a day), nofollow listing. A dofollow link starts at $19 ($9.50 with their September code).",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "next open date — about a week out (4 Oct for a 26 Sep submission)",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free with no badge: you pick an open launch date (they launch five a day; about a week out when we submitted). The free listing is nofollow; a followed link starts at the $19 plan.",
+      "page": "https://launchgrill.com/directories/nextbigproduct"
+    },
+    {
+      "id": "nocodefounders",
+      "name": "No Code Founders",
+      "home": "https://nocodefounders.com/",
+      "submit": "https://www.nocodefounders.com/list-your-tool",
+      "free": "Free path mentioned; prices also shown on the submit page: $500, $1,500, $1500.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "nocode",
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "once",
+      "name": "Once.tools",
+      "home": "https://once.tools/",
+      "submit": "https://once.tools/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "onemillionscreenshots",
+      "name": "One Million Screenshots",
+      "home": "https://onemillionscreenshots.com/",
+      "submit": "https://onemillionscreenshots.com/add",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "open-launch",
+      "name": "Open Launch",
+      "home": "https://open-launch.com/",
+      "submit": "https://open-launch.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "openlaunch",
+      "name": "Open Launch",
+      "home": "https://openlaunch.ai/",
+      "submit": "https://openlaunch.ai/sign-in?redirect=/projects/submit",
+      "free": "Free launch, no badge, 5 slots a day — but the free queue was full for six months (first open day 25 Mar 2027 when checked on 26 Sep 2026). Dofollow only if you finish top 3; $9 Premium gives it from day one.",
+      "link": "paid-only",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "about 6 months free (first slot 2027-03-25 on 2026-09-26); up to 30 days at $9",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free with no badge, but the free queue was full for six months: the first open day was 25 March 2027 when we submitted. The link is followed only for a top-three finish; $9 Premium launches within 30 days with a followed link.",
+      "page": "https://launchgrill.com/directories/openlaunch"
+    },
+    {
+      "id": "opensaas",
+      "name": "Open SaaS Directory",
+      "home": "https://opensaas.directory/",
+      "submit": "https://opensaas.directory/projects/new",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "openalternative",
+      "name": "OpenAlternative",
+      "home": "https://openalternative.co/",
+      "submit": "https://openalternative.co/submit",
+      "free": "Free submission; open-source alternatives to commercial software.",
+      "link": "mixed",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-20",
+      "checkedBy": "submit page read",
+      "note": "Free to submit, but only for open-source alternatives to commercial software.",
+      "page": "https://launchgrill.com/directories/openalternative"
+    },
+    {
+      "id": "openfuture",
+      "name": "OpenFuture",
+      "home": "https://openfuture.ai/",
+      "submit": "https://openfuture.ai/submit-tool",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "openhunts",
+      "name": "OpenHunts",
+      "home": "https://openhunts.com/",
+      "submit": "https://openhunts.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "opentools",
+      "name": "OpenTools",
+      "home": "https://opentools.ai/",
+      "submit": "https://opentools.ai/friends/launch-tool",
+      "free": "Only prices seen on the submit page ($4,000, $2565, $4000) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "peerlist",
+      "name": "Peerlist Launchpad",
+      "home": "https://peerlist.io/",
+      "submit": "https://peerlist.io/launchpad",
+      "free": "Free, weekly cycle.",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "weekly: submissions open Mondays 00:00–23:59 UTC; voting runs the week",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "Free, with a Peerlist profile. Launches open only on Mondays (UTC); the week's top three get a badge and a newsletter feature.",
+      "page": "https://launchgrill.com/directories/peerlist"
+    },
+    {
+      "id": "peerpush",
+      "name": "PeerPush",
+      "home": "https://peerpush.com/",
+      "submit": "https://peerpush.com/submit",
+      "free": "Free queue, no badge: same permanent listing, published in queue order (~2 months, 3,727 ahead on 2026-09-26); hidden from crawlers until then. $39 Standard Launch goes live at once.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "~2 months free; immediate at $39",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "form walked",
+      "note": "A real free queue with no badge: about two months when we joined, with 3,727 ahead. The page stays hidden from search engines until it launches. $39 puts it live at once.",
+      "page": "https://launchgrill.com/directories/peerpush"
+    },
+    {
+      "id": "pitchwall",
+      "name": "PitchWall",
+      "home": "https://pitchwall.co/",
+      "submit": "https://pitchwall.co/submit",
+      "free": "Free: a 1-day homepage slot after at least 30 days — the dofollow link, newsletter and tweet are paid-only ($49 Pro, $99 Premium).",
+      "link": "paid-only",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "30+ days free; 2 weeks at $49",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free, but only a one-day homepage slot after at least 30 days; the dofollow link, newsletter and tweet start at the $49 plan. Your public profile needs a username and an About line first.",
+      "page": "https://launchgrill.com/directories/pitchwall"
+    },
+    {
+      "id": "postmake",
+      "name": "Post Make",
+      "home": "https://postmake.io/",
+      "submit": "https://postmake.io/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $79, $119, $199.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "postioo",
+      "name": "Postioo",
+      "home": "https://postioo.com/",
+      "submit": "https://postioo.com/submit",
+      "free": "Only prices seen on the submit page ($5, $10) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "ph",
+      "name": "Product Hunt",
+      "home": "https://www.producthunt.com/",
+      "submit": "https://www.producthunt.com/posts/new",
+      "free": "Free. One launch per product; the day is chosen by the founder.",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "scheduled by you",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-20",
+      "checkedBy": "terms read",
+      "note": "Free, one launch per product, on a day you choose. Its terms forbid automated submission, so it has to be done by hand.",
+      "page": "https://launchgrill.com/directories/ph"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity Directory",
+      "home": "https://productivity.directory/",
+      "submit": "https://productivity.directory/user/signin?return_to=%2Fs%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "productlaunchpad",
+      "name": "ProductLaunchpad",
+      "home": "https://productlaunchpad.app/",
+      "submit": "https://productlaunchpad.app/launch",
+      "free": "Only prices seen on the submit page ($29, $9, $29.) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "rankyourai",
+      "name": "RankYourAI",
+      "home": "https://rankyourai.com/",
+      "submit": "https://rankyourai.com/p/submit/",
+      "free": "Only prices seen on the submit page ($29) — may be paid-only.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "readysaasgo",
+      "name": "Ready SaaS Go",
+      "home": "https://readysaasgo.com/",
+      "submit": "https://readysaasgo.com/submit-information-screenshots/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saasdirectory",
+      "name": "SaaS Directory",
+      "home": "https://saasdirectory.com/",
+      "submit": "https://www.saasdirectory.com/suggest-an-app.php",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saasgenius",
+      "name": "SaaS Genius",
+      "home": "https://saasgenius.com/",
+      "submit": "https://www.saasgenius.com/get-listed/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saasplace",
+      "name": "SaaS Place",
+      "home": "https://saasplace.io/",
+      "submit": "https://saasplace.io/submit/",
+      "free": "Free path mentioned; prices also shown on the submit page: $20/mo.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saasbison",
+      "name": "SaaSBison",
+      "home": "https://saasbison.com/",
+      "submit": "https://saasbison.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $29.99, $9.99, $149.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saasgrow",
+      "name": "SaaSGrow",
+      "home": "https://saasgrow.app/",
+      "submit": "https://saasgrow.app/login?callbackUrl=/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saashub",
+      "name": "SaaSHub",
+      "home": "https://saashub.com/",
+      "submit": "https://www.saashub.com/services/submit",
+      "free": "Free: submit, approval in up to 32 days; verifying with an email on the product domain moves it up. $75 Priority+ (24h, newsletter, badge).",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "up to 32 days free",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free, approved within about 32 days; verifying with an email on your own domain speeds it up. It has a Landing Page Roast category. A $75 priority option is offered.",
+      "page": "https://launchgrill.com/directories/saashub"
+    },
+    {
+      "id": "saashunt",
+      "name": "SaasHunt",
+      "home": "https://saashunt.best/",
+      "submit": "https://saashunt.best/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saaspa-ge",
+      "name": "Saaspa.ge",
+      "home": "https://saaspa.ge/",
+      "submit": "https://www.saaspa.ge/auth/signin?callbackUrl=https%3A%2F%2Fwww.saaspa.ge%2F",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "saaspo",
+      "name": "SaaSpo",
+      "home": "https://saaspo.com/",
+      "submit": "https://saaspo.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "scoutforge",
+      "name": "ScoutForge",
+      "home": "https://scoutforge.net/",
+      "submit": "https://scoutforge.net/app-register",
+      "free": "Free listing, confirmed: LaunchGrill's went live without payment. The link is nofollow.",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "listing read",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "seewhatnewai",
+      "name": "See What New AI",
+      "home": "https://seewhatnewai.com/",
+      "submit": "https://www.seewhatnewai.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $10, $0.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "serchen",
+      "name": "Serchen",
+      "home": "https://serchen.com/",
+      "submit": "https://www.serchen.com/get-listed",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "shipyardhq",
+      "name": "ShipYard HQ",
+      "home": "https://shipyardhq.dev/",
+      "submit": "https://shipyardhq.dev/login?redirect_url=https%3A%2F%2Fshipyardhq.dev%2Fmember%2Fproducts%2Fadd",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "devtools",
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "shipybara",
+      "name": "Shipybara",
+      "home": "https://shipybara.com/",
+      "submit": "https://shipybara.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "showmebest",
+      "name": "Show Me Best AI",
+      "home": "https://showmebest.ai/",
+      "submit": "https://showmebest.ai/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $49.99, $9.99.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "sidebar",
+      "name": "Side Bar",
+      "home": "https://sidebar.io/",
+      "submit": "https://sidebar.io/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "sideprojects",
+      "name": "SideProjects",
+      "home": "https://sideprojects.net/",
+      "submit": "https://sideprojects.net/login?next=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "sitelike",
+      "name": "SiteLike",
+      "home": "https://sitelike.org/",
+      "submit": "https://www.sitelike.org/add-site",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "softwaresuggest",
+      "name": "Software Suggest",
+      "home": "https://softwaresuggest.com/",
+      "submit": "https://www.softwaresuggest.com/vendors",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "spacebandits",
+      "name": "Space Bandits",
+      "home": "https://spacebandits.io/",
+      "submit": "https://spacebandits.io/industries/launch",
+      "free": "Free path mentioned; prices also shown on the submit page: $6.9, $2.9.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "spiff",
+      "name": "Spiff.store",
+      "home": "https://spiff.store/",
+      "submit": "https://spiff.store/submit-tool/",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $15.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "spotsaas",
+      "name": "SpotSaaS",
+      "home": "https://spotsaas.com/",
+      "submit": "https://www.spotsaas.com/get-listed",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "stackviv",
+      "name": "Stackviv",
+      "home": "https://stackviv.ai/",
+      "submit": "https://stackviv.ai/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupdope",
+      "name": "Startup Dope",
+      "home": "https://startupdope.com/",
+      "submit": "https://startupdope.com/submit-news/",
+      "free": "Only prices seen on the submit page ($3.3, $2.75) — may be paid-only.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupguys",
+      "name": "Startup Guys",
+      "home": "https://startupguys.net/",
+      "submit": "https://www.startupguys.net/submit-startup/",
+      "free": "Only prices seen on the submit page ($\\n49, $\\n99, $\\n349, $49.00, $99.00, $349.00) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupranking",
+      "name": "Startup Ranking",
+      "home": "https://startupranking.com/",
+      "submit": "https://www.startupranking.com/startup/create/url-validation",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "form walked",
+      "note": "Free, with a social login. It asks for country, founding date and a description of at least 300 characters, and listings are approved by hand.",
+      "page": "https://launchgrill.com/directories/startupranking"
+    },
+    {
+      "id": "startupresources",
+      "name": "Startup Resources",
+      "home": "https://startupresources.io/",
+      "submit": "https://startupresources.io/add-resource/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupstash",
+      "name": "Startup Stash",
+      "home": "https://startupstash.com/",
+      "submit": "https://startupstash.com/add-listing/",
+      "free": "Free application, reviewed by hand; they reply by email.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "Free, no account: a short application form, reviewed by hand. No price appears anywhere in the process.",
+      "page": "https://launchgrill.com/directories/startupstash"
+    },
+    {
+      "id": "startupbase",
+      "name": "StartupBase",
+      "home": "https://startupbase.io/",
+      "submit": "https://startupbase.io/submit",
+      "free": "Free launch only with their badge on your site, then ~4-5 weeks in a queue (1,544 ahead on 2026-09-26). $39 Launch now: no badge, DR 74+ dofollow, date of your choice.",
+      "link": "paid-only",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": true,
+      "queue": "~4-5 weeks free (badge required); next day at $39",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "The free launch needs their badge on your site and a wait of about 4 to 5 weeks (1,544 queued when we checked). $39 launches without the badge.",
+      "page": "https://launchgrill.com/directories/startupbase"
+    },
+    {
+      "id": "startupfa-st",
+      "name": "startupfa.st",
+      "home": "https://startupfa.st/",
+      "submit": "https://www.startupfa.st/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $19, $49\\n/mo, $399\\n/year.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupslab",
+      "name": "Startups Lab",
+      "home": "https://startupslab.site/",
+      "submit": "https://startupslab.site/submit-product",
+      "free": "Free path mentioned; prices also shown on the submit page: $9, $29.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startups-fm",
+      "name": "Startups.fm",
+      "home": "https://startups.fm/",
+      "submit": "https://startups.fm/submit",
+      "free": "Only prices seen on the submit page ($49) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startuptile",
+      "name": "StartupTile",
+      "home": "https://startuptile.com/",
+      "submit": "https://startuptile.com/payg/pay",
+      "free": "Only prices seen on the submit page ($1.99, $19, $35) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startuptrusted",
+      "name": "StartupTrusted",
+      "home": "https://startuptrusted.com/",
+      "submit": "https://startuptrusted.com/login?callbackUrl=%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startupvalley-news",
+      "name": "StartupValley News",
+      "home": "https://startupvalley.news/",
+      "submit": "https://startupvalley.news/uk/submit-startup-event/",
+      "free": "Free path mentioned; prices also shown on the submit page: €299,, €9.1, €36, €1.2.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "startuups",
+      "name": "startuups",
+      "home": "https://startuups.com/",
+      "submit": "https://startuups.com/sign-in?redirect=/projects/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "submithunt",
+      "name": "SubmitHunt",
+      "home": "https://submithunt.com/",
+      "submit": "https://www.submithunt.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "sumodir",
+      "name": "Sumodir",
+      "home": "https://sumodir.com/",
+      "submit": "https://sumodir.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $15, $49.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "taalk",
+      "name": "Taalk",
+      "home": "https://taalk.com/",
+      "submit": "https://taalk.com/submit-startup/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "taprefer",
+      "name": "TapRefer",
+      "home": "https://taprefer.com/",
+      "submit": "https://taprefer.com/submit-affiliate-program-online/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tapscape",
+      "name": "TapScape",
+      "home": "https://tapscape.com/",
+      "submit": "https://www.tapscape.com/submit-app-review/",
+      "free": "Only prices seen on the submit page ($99, $2, $50) — may be paid-only.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "techdirectory",
+      "name": "Tech Directory",
+      "home": "https://techdirectory.io/",
+      "submit": "https://www.techdirectory.io/get-listed",
+      "free": "Free path mentioned; prices also shown on the submit page: $29.00, $49.00.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "techpluto",
+      "name": "Tech Pluto",
+      "home": "https://techpluto.com/",
+      "submit": "https://www.techpluto.com/submit-startup/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "techbehemoths",
+      "name": "TechBehemoths",
+      "home": "https://techbehemoths.com/",
+      "submit": "https://techbehemoths.com/companies/get-listed",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "techboard-com-au",
+      "name": "TechBoard",
+      "home": "https://techboard.com.au/",
+      "submit": "https://techboard.com.au/get-listed/add-a-company/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "techtrendin",
+      "name": "TechTrendin",
+      "home": "https://techtrendin.com/",
+      "submit": "https://www.techtrendin.com/?mdl=login&redirectUrl=%2Fproducts%2Fsubmit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tekpon",
+      "name": "Tekpon",
+      "home": "https://tekpon.com/",
+      "submit": "https://tekpon.com/get-listed/",
+      "free": "Only prices seen on the submit page ($249, $249,) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "saas",
+        "b2b"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "thankjohn",
+      "name": "THANK JOHN",
+      "home": "https://thankjohn.com/",
+      "submit": "https://thankjohn.com/get-started",
+      "free": "Free path mentioned; prices also shown on the submit page: $0.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "thepopularapps",
+      "name": "The Popular Apps",
+      "home": "https://thepopularapps.com/",
+      "submit": "https://www.thepopularapps.com/submit-app",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "thestartupinc",
+      "name": "The Startup Inc",
+      "home": "https://thestartupinc.com/",
+      "submit": "https://thestartupinc.com/submit-startup/",
+      "free": "Free path mentioned; prices also shown on the submit page: $20,.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "thestartupvideos",
+      "name": "The Startup Videos",
+      "home": "https://thestartupvideos.com/",
+      "submit": "https://thestartupvideos.com/submit-startup/",
+      "free": "Only prices seen on the submit page ($50, $150) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "taaft",
+      "name": "There's An AI For That",
+      "home": "https://theresanaiforthat.com/",
+      "submit": "https://theresanaiforthat.com/submit/",
+      "free": "Unverified. A paid route at $437 is published; a free route for wholly free tools was reported.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": null,
+      "checkedBy": "carried, not re-checked",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "thingtesting",
+      "name": "Thing Testing",
+      "home": "https://thingtesting.com/",
+      "submit": "https://thingtesting.com/submit-brand?from=nav",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tidyrepo",
+      "name": "Tidy Repo",
+      "home": "https://tidyrepo.com/",
+      "submit": "https://tidyrepo.com/suggest-plugin/",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tinystartups",
+      "name": "Tiny Startups",
+      "home": "https://tinystartups.com/",
+      "submit": "https://www.tinystartups.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $69.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "tinylaunch",
+      "name": "TinyLaunch",
+      "home": "https://www.tinylaunch.com/",
+      "submit": "https://www.tinylaunch.com/",
+      "free": "Free, weekly. Top 3 only get the link, and it requires their badge.",
+      "link": "paid-only",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": true,
+      "queue": "scheduled: a launch date is assigned (a 2026-09-08 submission went live 2026-10-12)",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "Free and weekly, with a launch date assigned (a September submission was scheduled for mid-October). Only the top three get a link, and it needs their badge.",
+      "page": "https://launchgrill.com/directories/tinylaunch"
+    },
+    {
+      "id": "tipseason",
+      "name": "Tip Season",
+      "home": "https://tipseason.com/",
+      "submit": "https://www.tipseason.com/ai-tools/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $49, $30, $99.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolfinder",
+      "name": "Tool Finder",
+      "home": "https://toolfinder.co/",
+      "submit": "https://toolfinder.com/submit",
+      "free": "Only prices seen on the submit page ($29, $79\\n/year) — may be paid-only.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolpilot",
+      "name": "Tool Pilot",
+      "home": "https://toolpilot.ai/",
+      "submit": "https://www.toolpilot.ai/pages/submit-your-ai-tool",
+      "free": "Free path mentioned; prices also shown on the submit page: $50.00, $6.99, $9.00.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolfio",
+      "name": "Toolfio",
+      "home": "https://toolfio.com/",
+      "submit": "https://toolfio.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $18.99, $39.99, $11.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolhub",
+      "name": "ToolHub",
+      "home": "https://toolhub.me/",
+      "submit": "https://toolhub.me/pages/submit/",
+      "free": "Only prices seen on the submit page ($3, $10) — may be paid-only.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toollist",
+      "name": "Toollist",
+      "home": "https://toollist.ai/",
+      "submit": "https://toollist.ai/v4/submit",
+      "free": "Only prices seen on the submit page ($29, $29,, $99, $249, $47) — may be paid-only.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolscout",
+      "name": "ToolScout AI",
+      "home": "https://toolscout.ai/",
+      "submit": "https://toolscout.ai/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toolsfine",
+      "name": "toolsfine",
+      "home": "https://toolsfine.com/",
+      "submit": "https://toolsfine.com/submit-ai-tools-or-product",
+      "free": "Free path mentioned; prices also shown on the submit page: $16.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toools-design",
+      "name": "Toools.design",
+      "home": "https://toools.design/",
+      "submit": "https://www.toools.design/suggest-a-tool",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "toptools",
+      "name": "Top Tools",
+      "home": "https://toptools.ai/",
+      "submit": "https://toptools.ai/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "topai",
+      "name": "TopAI.tools",
+      "home": "https://topai.tools/",
+      "submit": "https://topai.tools/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "trendystartups",
+      "name": "Trendy Startups",
+      "home": "https://trendystartups.com/",
+      "submit": "https://trendystartups.com/register",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "trustmrr",
+      "name": "TrustMRR",
+      "home": "https://trustmrr.com/",
+      "submit": "https://trustmrr.com/",
+      "free": "Free. Connect a payment provider to publish verified revenue and be listed.",
+      "link": "dofollow",
+      "account": "unknown",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-20",
+      "checkedBy": "submit page read",
+      "note": "Free, but you connect a payment provider so it can publish verified revenue, which suits products that already earn.",
+      "page": "https://launchgrill.com/directories/trustmrr"
+    },
+    {
+      "id": "turbo0",
+      "name": "Turbo0",
+      "home": "https://turbo0.com/",
+      "submit": "https://turbo0.com/auth/login?callbackUrl=%2Fsubmit",
+      "free": "Free only with a backlink to Turbo0 from your site; listed within 2 weeks. Basic $29.90 drops the backlink requirement.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": true,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "submit page read",
+      "note": "Free only if your site links back to Turbo0, then listed within two weeks. The $29.90 plan drops the link-back requirement.",
+      "page": "https://launchgrill.com/directories/turbo0"
+    },
+    {
+      "id": "twelve",
+      "name": "Twelve Tools",
+      "home": "https://twelve.tools/",
+      "submit": "https://twelve.tools/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $36, $25.20.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "uneed",
+      "name": "Uneed",
+      "home": "https://www.uneed.best/",
+      "submit": "https://www.uneed.best/submit",
+      "free": "Free with a queue reported up to five months; $14.99 skips it (~14 days).",
+      "link": "nofollow",
+      "account": "required",
+      "captcha": "unknown",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-26",
+      "checkedBy": "form walked",
+      "note": "A free queue reported at up to five months; $14.99 skips it. While waiting, the page is noindex and the link nofollow. The submit button does nothing if your product is already there.",
+      "page": "https://launchgrill.com/directories/uneed"
+    },
+    {
+      "id": "ventureradar",
+      "name": "Venture Radar",
+      "home": "https://ventureradar.com/",
+      "submit": "https://www.ventureradar.com/submitcompany?stage=0",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "victrays",
+      "name": "Victrays",
+      "home": "https://victrays.com/",
+      "submit": "https://victrays.com/submit-ai-tool/",
+      "free": "Free path mentioned; prices also shown on the submit page: $9.99, $29.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "webapprater",
+      "name": "Web App Rater",
+      "home": "https://webapprater.com/",
+      "submit": "https://webapprater.com/submit-your-web-application-for-review-html",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "web-review",
+      "name": "Web Review",
+      "home": "https://web-review.com/",
+      "submit": "https://web-review.com/submit",
+      "free": "Free path mentioned; prices also shown on the submit page: $0, $9, $99, $149, $199, $249.",
+      "link": "unknown",
+      "account": "required",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "webtoolsweekly",
+      "name": "Web Tools Weekly",
+      "home": "https://webtoolsweekly.com/",
+      "submit": "https://webtoolsweekly.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "webdesign-inspiration",
+      "name": "Webdesign Inspiration",
+      "home": "https://webdesign-inspiration.com/",
+      "submit": "https://www.webdesign-inspiration.com/web-design-site/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "yes",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "whatsnewonthenet",
+      "name": "What's new on the net",
+      "home": "https://whatsnewonthenet.com/",
+      "submit": "https://www.whatsnewonthenet.com/new-startup-to-create-ai-generated-short-form-videos-startups",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "unknown",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "whatisaitools",
+      "name": "WhatIsAITools",
+      "home": "https://whatisaitools.com/",
+      "submit": "https://whatisaitools.com/submit",
+      "free": "No price seen on the submit page. Likely free; not confirmed by a submission.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "ai"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    },
+    {
+      "id": "whatsthebigdata",
+      "name": "WhatstheBigData",
+      "home": "https://whatsthebigdata.com/",
+      "submit": "https://whatsthebigdata.com/submit-new-ai-tool/",
+      "free": "Free path mentioned; prices also shown on the submit page: $599, $799, $100.",
+      "link": "unknown",
+      "account": "none",
+      "captcha": "no",
+      "badgeRequired": false,
+      "queue": "unknown",
+      "fit": [
+        "any"
+      ],
+      "checked": "2026-09-25",
+      "checkedBy": "scanned by script",
+      "note": null,
+      "page": null
+    }
+  ]
+}
